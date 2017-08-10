@@ -1,6 +1,7 @@
 # shinyleafletselectizeinputRails
 A shiny to explore french railways SNCF open data with Leaflet lib linked to selectizeinput
-
+ https://callyou.shinyapps.io/sncf/
+ 
 For now in french only, but the comments in the code are in english
 -----------------------------------------------------------------------------------------------------------------------
 # Comment pouvoir utiliser cette application
